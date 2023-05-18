@@ -115,9 +115,9 @@
             // 
             // button7
             // 
-            button7.Location = new Point(205, -5);
+            button7.Location = new Point(182, -5);
             button7.Name = "button7";
-            button7.Size = new Size(99, 60);
+            button7.Size = new Size(122, 60);
             button7.TabIndex = 7;
             button7.Text = "家";
             button7.UseVisualStyleBackColor = true;

@@ -41,7 +41,7 @@ namespace v0518
         {
             button3.Left = button3.Left - 90;
             button3.Left = button3.Left + 100;
-            //button3.Top = button3.Top + 110;
+            button3.Top = button3.Top + 110;
         }
 
         private void button5_Click(object sender, EventArgs e)
